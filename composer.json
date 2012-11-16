@@ -1,0 +1,21 @@
+{
+    "name": "adminweb/semente",
+    "require": {
+        "php": ">=5.3",
+        "adminweb/services":"dev-master",
+        "adminweb/annotation":"dev-master"
+    },
+    "description": "Pacote de annotation para o semente",
+    "authors":[
+    {
+        "name": "Igor C. de Paula",
+        "email": "igordepaula@adminweb.com.br"
+    }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "": "services"
+        }
+    }
+}
