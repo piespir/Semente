@@ -17,5 +17,8 @@
         "psr-0": {
             "": "services"
         }
+    },
+    "config":{
+        "vendor-dir":"embryo"
     }
 }
